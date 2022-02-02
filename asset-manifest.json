@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/galvanize_voting/static/css/main.b61a64ad.css",
+    "main.js": "/galvanize_voting/static/js/main.0bd03e75.js",
+    "static/js/787.f6257ae6.chunk.js": "/galvanize_voting/static/js/787.f6257ae6.chunk.js",
+    "static/media/logo.svg": "/galvanize_voting/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/galvanize_voting/index.html",
+    "main.b61a64ad.css.map": "/galvanize_voting/static/css/main.b61a64ad.css.map",
+    "main.0bd03e75.js.map": "/galvanize_voting/static/js/main.0bd03e75.js.map",
+    "787.f6257ae6.chunk.js.map": "/galvanize_voting/static/js/787.f6257ae6.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b61a64ad.css",
+    "static/js/main.0bd03e75.js"
+  ]
+}
